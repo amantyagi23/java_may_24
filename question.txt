@@ -1,0 +1,13 @@
+1. WAP to swap two numbers;
+
+input a = 10, b= 20;
+
+output a = 20,b= 10;
+
+
+HM
+2. Wap to add two number using user input
+
+3. Wap to check which number is greater then among two number on user based input
+
+4. Wap to check given number is even or odd number (ifelse);
