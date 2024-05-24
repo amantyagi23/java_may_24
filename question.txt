@@ -11,3 +11,28 @@ HM
 3. Wap to check which number is greater then among two number on user based input
 
 4. Wap to check given number is even or odd number (ifelse);
+
+5 Wap to check if user age
+if age is less then 18 result 'not adult'
+if age is between 18 to 40 under selection 
+
+if age is between 40 to 60 selected
+if age greater the 60 not under selection category
+
+
+
+5. WAP to check which year is a leap year?
+
+6. Wap to create a menu driven calculator?
+1 for add
+2 for subtract
+3 for multiply
+4 for divide
+
+7. Wap to check even no. between 0 to 100
+
+8. Wap to print table of 5 using loop up to 10 times
+
+5 x 1 = 5
+
+
