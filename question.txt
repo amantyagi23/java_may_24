@@ -54,3 +54,26 @@ Wap to reverse a number usin while loop
 
 input :- 123456
 output :- 654321
+
+
+Wap to find a armstrong number;
+
+input 153 = 1^3 + 5^3 + 3^3 = 1+125+27 = 153
+
+
+Math.pow
+Math.min
+Math.max
+Math.sqrt
+
+
+Wap to find a paildrome number
+
+
+121 
+
+111
+
+
+
+
