@@ -159,4 +159,19 @@ Wap to check wheater a number is prime or not.
   *
   *
 
+7
 
+* * * * * 
+*       * 
+*   *   * 
+*       * 
+* * * * * 
+
+
+8.
+
+*
+**
+***
+****
+*****
