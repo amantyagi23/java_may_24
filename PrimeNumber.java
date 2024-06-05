@@ -7,19 +7,26 @@ public class PrimeNumber {
         System.out.println("Enter Input");
         int n = sc.nextInt();
 
+        int count = 0;
         boolean flag = false;
 
-        for (int i = 2; i < n; i++) {
+        if (n % 2 == 0 || n % 3 == 0) {
+            flag = true;
+            count++;
+        }
+
+        for (int i = 5; i * i <= n; i = i + 6) {
             if (n % i == 0) {
                 flag = true;
                 break;
             }
+            count++;
         }
 
         if (flag == true) {
-            System.out.println("Not A prime Number");
+            System.out.println("Not A prime Number " + count);
         } else {
-            System.out.println("Prime Number");
+            System.out.println("Prime Number " + count);
         }
     }
 }
