@@ -21,7 +21,7 @@ if age greater the 60 not under selection category
 
 
 
-5. WAP to check which year is a leap year?
+5. WAP to check which year is a leap year? (vands)
 
 6. Wap to create a menu driven calculator?
 1 for add
@@ -35,9 +35,9 @@ if age greater the 60 not under selection category
 
 5 x 1 = 5
 
-9. Wap to count the sum of even no. and odd up 100
+9. Wap to count the sum of even no. and odd up 100 (vands)
 
-10. Wap to count the digit user input 
+10. Wap to count the digit user input (vands)
 input 987654
 output 6
 
@@ -279,6 +279,25 @@ EDCBA
 5
 
 
+12345
+ 1234
+  123
+   12
+    1
+
+
+    *
+   **
+  ***
+ ****
+*****
+
+
+        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * * 
 
 
     *
@@ -286,6 +305,162 @@ EDCBA
   *****
  *******
 *********
+
+
+
+    1
+   121
+  12321
+ 1234321
+123454321
+
+
+    *
+   *2*
+  *2*2*
+ *2*4*2*
+*2*4*4*2*
+
+
+*********
+ *******
+  *****
+   ***
+    *
+
+
+
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+
+
+
+
+
+
+
+
+
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * *
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *  
+        *  
+
+
+
+
+        * 
+        *  
+        *  
+        * 
+* * * * * * * * *
+        * 
+        *  
+        *   
+        * 
+      
+
+  * * *
+* * * * *
+  * * * 
+* * * * *
+  * * *
+
+
+
+
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * *
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *  
+        *  
+
+
+
+
+        * 
+        *  
+        *  
+        * 
+* * * * * * * * *
+        * 
+        *  
+        *   
+        * 
+
+      
+
+        1 
+      1 2 1 
+    1 2 3 2 1 
+  1 2 3 4 3 2 1
+1 2 3 4 5 4 3 2 1
+  1 2 3 4 3 2 1
+    1 2 3 2 1
+      1 2 1  
+        1  
+
+
+
+
+
+  * * *
+* * * * *
+  * * * 
+* * * * *
+  * * *
+
+
+        
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+  * * * * * * *
+    * * * * * 
+      * * *
+        *
+
+n = 5
+
+A B C D E D C B A
+  B C D E D C B
+    C D E D C 
+      D E D
+        E
+
+
+n = 5
+
+
+A
+A B
+A B C
+A B C D
+A B C D E
+A B C D
+A B C
+A B 
+A
+
+n = 5
 
 
 
@@ -298,3 +473,30 @@ EDCBA
 5 4 3 3 3 3 3 4 5
 5 4 4 4 4 4 4 4 5
 5 5 5 5 5 5 5 5 5
+
+
+n = 5
+
+
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+      * * *
+    * * * * * 
+  * * * * * * *
+* * * * * * * * *
+
+
+
+
+*       * * * * * 
+*       *
+*       *
+*       *
+* * * * * * * * *
+        *       *
+        *       *
+        *       *
+* * * * *       *
