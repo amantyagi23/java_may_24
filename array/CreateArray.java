@@ -16,7 +16,7 @@ public class CreateArray {
             System.out.println();
         }
 
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < 10; i++) {
             System.out.print(arr[i] + ", ");
         }
     }
