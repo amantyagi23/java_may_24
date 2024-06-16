@@ -54,6 +54,10 @@ public class CRUD {
 
                 case 4:
                     System.out.println("delete");
+                    System.out.println("Enter index");
+                    int in = sc.nextInt();
+                    arr[in] = 0;
+
                     break;
 
                 default:
