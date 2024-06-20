@@ -1,0 +1,15 @@
+WAP to add two number using function;
+
+
+WAP to check weather a number is prime number or not using function
+
+if prime return true
+
+else return false
+
+
+WAP to check weather a number is pailndrome or num using function
+
+if pailndrome return 1
+else 0
+

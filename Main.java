@@ -10,12 +10,15 @@ class Main {
 
         // System.out.print("Hello World" + n);
 
-        int count = 0;
-        for (; n != 0;) {
-            count++;
-            n = n / 10;
-        }
-        System.out.println(count);
+        // int count = 0;
+        // for (; n != 0;) {
+        // count++;
+        // n = n / 10;
+        // }
+        byte a = 60;
+        byte b = 70;
+        byte c = (byte) (a + b);
+        System.out.println(c);
 
         // int i = 0;
         // for (i = 0; i < args.length; i++) {
