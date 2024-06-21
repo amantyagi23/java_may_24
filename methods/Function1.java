@@ -11,8 +11,20 @@ public class Function1 {
         System.out.println("i just got called");
     }
 
+    static String display(int a, int b) {
+        // operation
+        // code
+
+        // repeat
+        int arr[] = { 1, 2 };
+        System.out.println(a + " " + b);
+        return "hello";
+    }
+
     public static void main(String[] args) {
         // fun();
+
+        display(10, 20);
         myMethod();
 
         // code

@@ -13,3 +13,31 @@ WAP to check weather a number is pailndrome or num using function
 if pailndrome return 1
 else 0
 
+
+Wap to create a calculator using dowhile and function;
+
+
+add
+subtract
+multiply
+divide
+
+
+WAP to find a factorial of give number using function;
+
+int n = 5;
+
+1x2x3x4x5 = 120
+
+
+return the result
+
+
+Wap to print fibonnic series using function 
+
+
+0,1,1,2,3,5,8,13,21,34... up to n times
+
+
+
+

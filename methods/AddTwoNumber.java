@@ -9,7 +9,7 @@ public class AddTwoNumber {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        plus(a, b);
+        System.out.println(plus(a, b));
     }
 
     static int plus(int a, int b) {

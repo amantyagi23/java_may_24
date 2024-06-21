@@ -5,7 +5,7 @@ package methods;
  */
 public class FunctionCall {
     static void add() {
-        minus();
+        // minus();
         System.out.println(" I am add");
     }
 
