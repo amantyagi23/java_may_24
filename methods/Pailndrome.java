@@ -1,5 +1,7 @@
 package methods;
 
+import java.util.Scanner;
+
 public class Pailndrome {
 
     static int checkPailndrome(int num) {
@@ -18,7 +20,9 @@ public class Pailndrome {
     }
 
     public static void main(String[] args) {
-        int result = checkPailndrome(121);
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int result = checkPailndrome(n);
         System.out.println(result);
     }
 }

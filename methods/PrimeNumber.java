@@ -1,26 +1,24 @@
 package methods;
 
-public class PrimeNumber {
+import java.util.Scanner;
 
-    static boolean checkPrimeNumber(int nums) {
-        for (int i = 2; i < nums; i++) {
-            if (nums % i == 0) {
+public class PrimeNumber {
+    static boolean checkPrime() {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        for (int i = 2; i < n; i++) {
+            if (n % i == 0) {
+                // not a prime number
                 return false;
             }
         }
+        // prime number
         return true;
     }
 
     public static void main(String[] args) {
-        System.out.println(checkPrimeNumber(123));
-        System.out.println(checkPrimeNumber(12));
-        System.out.println(checkPrimeNumber(13));
-        System.out.println(checkPrimeNumber(66));
-        System.out.println(checkPrimeNumber(199));
-        System.out.println(checkPrimeNumber(443));
-        System.out.println(checkPrimeNumber(173));
-        System.out.println(checkPrimeNumber(126));
-        System.out.println(checkPrimeNumber(121));
+
+        System.out.println(checkPrime());
 
     }
 }
