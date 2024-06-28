@@ -1,27 +1,24 @@
 public class Student {
-    int SID;
+    int id;
     String name;
-    char section;
-    String standard;
-    String address;
-    int marks[];
+    String email;
+    String password;
 
-    Student(int SID) {
-        this.SID = SID;
-    }
-
-    void prindSid() {
-        System.out.println(SID);
-    }
-
-    void addMarks() {
-
+    Student(int id, String name) {
+        this.id = id;
+        this.name = name;
     }
 
     public static void main(String[] args) {
-        Student obj = new Student(12);
+        Student obj1 = new Student(1, "Aman");
+        Student obj2 = new Student(2, "Tushar");
+        Student obj3 = new Student(3, "Sachin");
 
-        obj.addMarks();
+        System.out.println(obj1.name + obj1.id);
+        obj2.id = 22;
+        System.out.println(obj2.name + obj2.id);
+        System.out.println(obj3.name);
+
     }
 
 }
