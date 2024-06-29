@@ -1,0 +1,32 @@
+Define a class name Car
+which 3 data members in it name as year, model,company
+
+define constractor for initalize value of a object
+
+create five  object with diffrent model, company and year
+
+
+member function to displayCarInfo
+
+member function to check car validity
+
+member function to createIncrance
+
+member function to updateYear
+
+
+
+
+Create a class name as Employee with data member name as 
+eid
+name
+email
+department
+salary
+
+
+create a constructor to initalize values
+
+create 10 object
+
+

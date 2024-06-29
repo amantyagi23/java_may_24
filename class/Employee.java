@@ -1,5 +1,5 @@
 
-public class Employee {
+class Employee {
     String eid;
     String name;
     String department;
@@ -11,6 +11,15 @@ public class Employee {
         age = empAge;
         salary = empSalary;
         name = empName;
+    }
+
+    void work() {
+        this.increment();
+    }
+
+    void increment() {
+
+        this.salary = this.salary + 12000;
     }
 
     public static void main(String[] args) {
@@ -27,5 +36,14 @@ public class Employee {
         emp2.d_o_b = "11-01-2001";
         emp2.eid = "008";
         emp2.department = "HR";
+
+        System.out.println("Before Work");
+        System.out.println(emp1.salary);
+        System.out.println(emp2.salary);
+        emp1.work();
+        emp2.increment();
+        System.out.println("After Work");
+        System.out.println(emp1.salary);
+        System.out.println(emp2.salary);
     }
 }

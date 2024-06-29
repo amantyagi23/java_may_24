@@ -24,10 +24,14 @@ public class Customer {
         this.email = email;
     }
 
+    // member function
+
+    // mf is just behavior
+
     public static void main(String[] args) {
         // new -> new memory allocator
         // initalize new memory at runtime
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
         Customer obj1 = new Customer(1, "Aman", "amantyagi@gmail.com");
         Customer obj2 = new Customer(2, "Tushar", "tushar1133@gmail.com");
         Customer obj3 = new Customer(3, "Mayank", "mayanksh33@gmail.com");
