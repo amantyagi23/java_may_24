@@ -1,7 +1,7 @@
 Define a class name Car
 which 3 data members in it name as year, model,company
 
-define constractor for initalize value of a object
+define constructor for initalize value of a object
 
 create five  object with diffrent model, company and year
 
@@ -9,6 +9,7 @@ create five  object with diffrent model, company and year
 member function to displayCarInfo
 
 member function to check car validity
+
 
 member function to createIncrance
 
